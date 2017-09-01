@@ -1,0 +1,2 @@
+https://github.com/baek-jinoo/AIND-Constraint_Satisfaction
+https://github.com/buffos/aiND.constraint.satisfaction.problems/blob/master/AIND-Constraint_Satisfaction.ipynb
